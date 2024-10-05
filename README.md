@@ -20,5 +20,5 @@ Este projeto contém scripts em JavaScript para manipulação de dados de CSAT v
 
 3. Atualize o arquivo config.js com sua URL e chave da API.
 4. Execute os scripts conforme necessário, por exemplo:
-
-node src/delete/delete_mass.js
+    ```bash
+    node src/delete/delete_mass.js
